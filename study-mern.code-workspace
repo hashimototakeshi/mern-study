@@ -3,14 +3,5 @@
 		{
 			"path": "."
 		}
-	],
-	"settings": {
-		"files.eol": "\n",
-		"editor.fontFamily": "源ノ角ゴシック Code JP, Consolas, 'Courier New', monospace",
-		"editor.fontSize": 11,
-		"editor.tabSize": 2,
-		"editor.formatOnType": true,
-		"editor.formatOnPaste": true,
-		"editor.formatOnSave": true
-	}
+	]
 }
