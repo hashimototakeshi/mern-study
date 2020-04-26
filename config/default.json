@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://user:user@127.0.0.1:27017/mern?retryWrites=true",
+  "jwtSecret": "mysecrettoken"
+}
