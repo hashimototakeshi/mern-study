@@ -7,7 +7,7 @@
 	"settings": {
 		"files.eol": "\n",
 		"editor.fontFamily": "源ノ角ゴシック Code JP, Consolas, 'Courier New', monospace",
-		"editor.fontSize": 11,
+		"editor.fontSize": 14,
 		"editor.tabSize": 2,
 		"editor.formatOnType": true,
 		"editor.formatOnPaste": true,
